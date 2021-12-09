@@ -22,7 +22,7 @@
             },
             {
                 "label": "Blog",
-                "url": "/Blog",
+                "url": "/blog",
                 "style": "link"
             },
             {
@@ -60,10 +60,4 @@
                 "style": "icon",
                 "icon_class": "linkedin",
                 "new_window": true
-            },
-                    ]
-    },
-    "footer": {
-        "content": "&copy; Edward Hill. All rights reserved. This blog site was created with R and Blogdown." 
-        }
-}
+            }
