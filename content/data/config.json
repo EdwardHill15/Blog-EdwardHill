@@ -5,8 +5,6 @@
     "header": {
         "title": "Edward Hill",
         "tagline": "Personal Blogsite",
-        "logo_img": "images/logo.svg",
-        "logo_img_alt": "",
         "background_img": "images/header-bg.jpg",
         "has_nav": true,
         "nav_links": [
