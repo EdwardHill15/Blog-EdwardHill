@@ -1,10 +1,10 @@
 {
-    "title": "Stackbit Fjord Theme",
+    "title": "Edward Hill Blog",
     "path_prefix": "/",
     "palette": "yellow",
     "header": {
-        "title": "Fjord",
-        "tagline": "Minimal and clean blog theme",
+        "title": "Edward Hill",
+        "tagline": "Personal Blogsite",
         "logo_img": "images/logo.svg",
         "logo_img_alt": "Fjord Logo",
         "background_img": "images/header-bg.jpg",
